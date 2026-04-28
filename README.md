@@ -1,3 +1,3 @@
 # ETNet
-An Edge Detection Method
-Under review, Data and code will be available after the accpetance
+An Edge Detection Method.
+Under review, data and code and results will be available after the accpetance
